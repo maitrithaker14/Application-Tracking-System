@@ -13,8 +13,10 @@
 -	Schedule interviews. 
 -	Send emails and enjoy the hiring process. 
 
-![WhatsApp Image 2022-11-15 at 8 26 28 AM](https://user-images.githubusercontent.com/68602671/201817555-1c86f1fc-5254-4fdc-be44-6622e3d7b0c5.jpeg)
-![WhatsApp Image 2022-11-15 at 8 26 54 AM](https://user-images.githubusercontent.com/68602671/201817594-814a5d44-4e7b-487e-8324-00bb8f50189f.jpeg)
-![WhatsApp Image 2022-11-15 at 8 28 31 AM](https://user-images.githubusercontent.com/68602671/201817646-dd1cfd55-67a9-4e2d-90a8-5876e286e14f.jpeg)
-![WhatsApp Image 2022-11-15 at 8 28 48 AM](https://user-images.githubusercontent.com/68602671/201817699-131023e0-0c47-42b2-90cb-f893bcdbfb77.jpeg)
-![WhatsApp Image 2022-11-15 at 8 29 03 AM](https://user-images.githubusercontent.com/68602671/201817745-decd79b6-ee37-41aa-960e-035079821daf.jpeg)
+![image](https://user-images.githubusercontent.com/68602671/205838975-8a508820-38db-492c-ae4f-4199ef3c6ac9.png)
+![image](https://user-images.githubusercontent.com/68602671/205839037-1f6ecf31-5d0a-43a6-8435-cf8158720a15.png)
+![image](https://user-images.githubusercontent.com/68602671/205839160-1acdd30e-5df4-476f-bec7-6fea1fa639e2.png)
+![image](https://user-images.githubusercontent.com/68602671/205839207-b9137597-f70b-4de7-8621-64cab0142e25.png)
+![image](https://user-images.githubusercontent.com/68602671/205839255-bacd8553-7d89-49bf-84d6-7a959540f87f.png)
+![image](https://user-images.githubusercontent.com/68602671/205839282-758da083-52d0-4920-bf6f-5ad0f9ff2da9.png)
+
