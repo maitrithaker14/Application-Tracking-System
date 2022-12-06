@@ -1,6 +1,6 @@
-# Application-Tracking-System
+# Recruitment System
 
-## An applicant tracking system (ATS) is software for recruiters to track candidates throughout the recruiting and hiring process. It is a software that automates administrative tasks in recruitment and hiring. It enables faster interview scheduling, easier job advertising, optimized referrals, automated processes, and more.
+## A Recruitment System is software for recruiters to track candidates throughout the recruiting and hiring process. It is a software that automates administrative tasks in recruitment and hiring. It enables faster interview scheduling, easier job advertising, optimized referrals, automated processes, and more.
 
 <p> In that, the software includes many functionalities. These functionalities   are: </p>
 
